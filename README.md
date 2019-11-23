@@ -12,6 +12,9 @@ https://www.youtube.com/watch?v=jTLpqipsw0g</br>
 ### Como aprender qualquer coisa - Técnica Feynman (5 Passos) </br>
 https://youtu.be/TVHUs67kwRk</br>
 
+### Para que você possa fazer o que não pode ser feito</br>
+https://www.youtube.com/watch?v=WN8fFIBjwUA</br>
+
 ### Github - Guia </br>
 https://rogerdudler.github.io/git-guide/index.pt_BR.html </br>
 
