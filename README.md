@@ -34,4 +34,10 @@ https://www.w3schools.com/js/default.asp
 ##### MySQL 
 http://dev.mysql.com/
 
+#### Oracle SQl Developer</br>
+https://www.oracle.com/database/technologies/appdev/sql-developer.html
+
+#### Oracle SQL Developer Data Modeler</br>
+https://www.oracle.com/database/technologies/appdev/datamodeler.html
+
 <p/>
