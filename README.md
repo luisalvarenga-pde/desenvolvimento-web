@@ -31,6 +31,9 @@ https://www.w3schools.com/js/default.asp
 
 ### Banco de Dados</br>
 
+##### Tutorial de SQL da W3Schools
+https://www.w3schools.com/sql/default.asp
+
 ##### MySQL 
 http://dev.mysql.com/
 
