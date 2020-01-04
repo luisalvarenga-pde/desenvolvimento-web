@@ -37,10 +37,21 @@ https://www.w3schools.com/sql/default.asp
 ##### MySQL 
 http://dev.mysql.com/
 
-#### Oracle SQl Developer</br>
+##### Oracle SQl Developer</br>
 https://www.oracle.com/database/technologies/appdev/sql-developer.html
 
-#### Oracle SQL Developer Data Modeler</br>
+##### Oracle SQL Developer Data Modeler</br>
 https://www.oracle.com/database/technologies/appdev/datamodeler.html
+
+### Server Side</br>
+
+##### Tutorial de Node.JS da W3Schools
+https://www.w3schools.com/nodejs/default.asp
+
+##### Node.JS 
+https://nodejs.org/pt-br/
+
+##### Postman</br>
+https://www.getpostman.com/product/api-client
 
 <p/>
