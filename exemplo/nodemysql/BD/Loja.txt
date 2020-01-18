@@ -1,0 +1,29 @@
+--
+-- Banco de Dados: `LOJA`
+--
+drop database loja;
+
+-- --------------------------------------------------------
+CREATE DATABASE IF NOT EXISTS LOJA;
+
+USE LOJA;
+
+
+--
+-- Estrutura da tabela `clientes`
+--
+
+CREATE TABLE IF NOT EXISTS `clientes` (
+  `idCliente` integer NOT NULL AUTO_INCREMENT,
+  `nome` varchar(80) DEFAULT NULL,
+  `email` varchar(80) DEFAULT NULL,
+  `senha` varchar(50) DEFAULT NULL,
+  `rua` varchar(80) DEFAULT NULL,
+  `cidade` varchar(80) DEFAULT NULL,
+  `bairro` varchar(40) DEFAULT NULL,
+  `cep` varchar(10) DEFAULT NULL,
+  `estado` varchar(2) DEFAULT NULL,
+  PRIMARY KEY (`idCliente`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+
+-- --------------------------------------------------------
