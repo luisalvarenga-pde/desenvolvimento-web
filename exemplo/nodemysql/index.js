@@ -90,11 +90,11 @@ console.log('Servidor iniciado e aguardando conexões na porta 3000');
 
 
 var uriConnection = {
-    host: 'localhost',
+    host: 'db4free.net',
     port: 3306,
-    user: 'root',
-    password: '123456',
-    database: 'LOJA'
+    user: 'pud_aluno_03',
+    password: '12345678',
+    database: 'pud_banco_03'
 };
 
 function execSQLQuery(sqlQry, values, res) {
