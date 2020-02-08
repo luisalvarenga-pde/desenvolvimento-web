@@ -51,7 +51,18 @@ https://www.w3schools.com/nodejs/default.asp
 ##### Node.JS 
 https://nodejs.org/pt-br/
 
-##### Postman</br>
+##### Postman
 https://www.getpostman.com/product/api-client
+
+### Client Side</br>
+
+##### Tutorial de HTML da W3Schools
+https://www.w3schools.com/html/
+
+##### Tutorial de CSS da W3Schools
+https://www.w3schools.com/css/
+
+##### CSS Zen Garden - Toda a potencialidade do CSS
+http://www.csszengarden.com/
 
 <p/>
