@@ -18,6 +18,9 @@ https://www.youtube.com/watch?v=WN8fFIBjwUA</br>
 ### Github - Guia </br>
 https://rogerdudler.github.io/git-guide/index.pt_BR.html </br>
 
+### Git
+https://git-scm.com/
+
 ### W3Schools - O maior site de desenvolvimento WEB do mundo </br>
 https://www.w3schools.com/ </br>
 
