@@ -65,4 +65,7 @@ https://www.w3schools.com/css/
 ##### CSS Zen Garden - Toda a potencialidade do CSS
 http://www.csszengarden.com/
 
+##### Brackets - Editor de código open source desenvolvido pela Adobe.
+http://brackets.io/
+
 <p/>
